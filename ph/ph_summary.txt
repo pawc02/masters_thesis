@@ -1,0 +1,13 @@
+=== DATASET ===
+Number of curves = 50
+
+min(bits) = 26
+max(bits) = 35
+
+min(smooth time) = 0.009637212753295899
+max(smooth time) = 0.0314793586730957
+min(prime time) = 0.41510663032531736
+max(prime time) = 11.41154613494873
+
+min speedup = 26.20282593921386
+max speedup = 638.6847222946045

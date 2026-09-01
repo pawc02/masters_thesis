@@ -1,0 +1,32 @@
+=== DATASET ===
+Number of curves = 124
+
+min(m) = 101599
+max(m) = 68475880777
+min(log2(m)) = 16.63252667672267
+max(log2(m)) = 35.99487686671465
+
+min(BSGS time) = 0.019984006881713867
+max(BSGS time) = 24.500046014785767
+min(rho time) = 0.004527568817138672
+max(rho time) = 45.629438400268555
+
+=== LOG-LOG FIT ===
+BSGS slope = 0.48541415701635615
+Pollard rho slope = 0.5223418322459985
+
+=== T(m)/sqrt(m) ===
+avg BSGS = 8.329316312432396e-05
+avg rho = 7.726931008654088e-05
+ratio BSGS/rho = 1.077959192738183
+
+
+=== POLLARD RHO EXTRAPOLATION ===
+128 bits: 4.520e+07 years
+192 bits: 1.941e+17 years
+256 bits: 8.338e+26 years
+512 bits: 2.837e+65 years
+795 bits: 1.118e+108 years
+
+NFS-DL (literatura):
+795-bit DLP ≈ 3200 CPU-years

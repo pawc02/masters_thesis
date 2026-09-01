@@ -1,0 +1,18 @@
+=== DATASET ===
+Number of curves = 128
+
+min(m) = 106949
+max(m) = 188794353581
+min(before MOV time) = 0.021363258361816406
+max(before MOV time) = 28.110224962234497
+min(after MOV time) = 0.009217262268066406
+max(after MOV time) = 12.250757694244385
+
+=== LOG-LOG FIT ===
+before MOV slope = 0.490240023823448
+after MOV slope = 0.4919318371831265
+
+=== T(m)/sqrt(m) ===
+avg before MOV = 8.503819874319644e-05
+avg after MOV = 3.550992767019252e-05
+ratio before/after = 2.3947725135632583
